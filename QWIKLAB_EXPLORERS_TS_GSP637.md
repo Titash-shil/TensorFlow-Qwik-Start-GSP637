@@ -10,10 +10,16 @@
 - ### Go to `Workbench` then open `terminal` & paste :
 
 ```
+python --version
+
 pip3 install tensorflow
+
 pip3 install --upgrade pip
+
 pip install -U pylint --user
+
 pip install -r requirements.txt
+
 ```
 
 * Create & save the notebook as :
